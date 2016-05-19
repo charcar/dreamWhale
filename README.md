@@ -1,5 +1,5 @@
 # DreamWhale
-
+# Please see most recent version, under mbrecunier's gh profile. 
 ##### Dream Journal Android App, 5/10/2016
 
 #### By Michelle Brecunier and Charles Carter
